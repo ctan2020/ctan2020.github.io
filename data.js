@@ -233,7 +233,7 @@ window.SITE_DATA = {
       tagline: "Using <b>wheat</b> and other staple crops, integrating <b>big data</b>, <b>phenomics</b> and <b>single-cell spatial transcriptomics</b> to identify genes for <b>yield and environmental adaptation</b> — and feed them into <b>molecular design breeding</b>.",
       stats: [
         { num: 44, suffix: "+", label: "journal papers" },
-        { num: 17, suffix: "+", label: "first / corresponding" },
+        { num: 18, suffix: "+", label: "first / corresponding" },
         { num: 3, suffix: "", label: " CNS " }
       ],
       btnPrimary: "Selected publications",
