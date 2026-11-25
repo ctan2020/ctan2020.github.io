@@ -27,7 +27,7 @@ window.SITE_DATA = {
       stats: [
         { num: 44, suffix: "+", label: "国际期刊论文" },
         { num: 18, suffix: "+", label: "一作 / 通讯" },
-        { num: 1, suffix: "", label: "CNS" }
+        { num: 3, suffix: "", label: "CNS" }
       ],
       btnPrimary: "查看代表性论著",
       btnGhost: "联系与合作",
