@@ -118,7 +118,7 @@ window.SITE_DATA = {
     projects: [
       { source: "国家农业农村部", title: "科技创新 2030 — 生物育种重大项目", period: "2026.11 — 2030.12", amount: "120 万元", role: "项目骨干 / 任务负责人", highlight: true },
       { source: "国家农业农村部", title: "科技创新 2030 — 生物育种重大项目", period: "2023.01 — 2025.12", amount: "130 万元", role: "项目骨干 / 任务执行负责人", highlight: true },
-      { source: "XX省科学技术厅", title: "XX省自然基金面上项目", period: "2026.01 — 2027.12", amount: "10 万元", role: "主持人", highlight: true },
+      { source: "省科学技术厅", title: "省自然基金面上项目", period: "2026.01 — 2027.12", amount: "10 万元", role: "主持人", highlight: true },
       { source: "广东省科学技术厅", title: "广东省基因组学科学数据中心", period: "2022.01 — 2024.12", amount: "308.68 万元", role: "项目成员" },
       { source: "深圳市人才专项", title: "玉米快速育种技术与应用（孔雀团队）", period: "2023.01 — 2027.12", amount: "2,200 万元", role: "核心成员（第 2 位）· 两个子项目负责人", highlight: true },
       { source: "广东省岭南实验室", title: "主要粮食作物胚胎发育和种子萌发时空转录组研究", period: "2022.01 — 2026.12", amount: "500 万元", role: "核心成员" }
@@ -229,12 +229,12 @@ window.SITE_DATA = {
       name: "Cong Tan",
       nameEn: "谈聪",
       role: "Yazhou Bay National Laboratory · Principal Scientist / Professor",
-      roleNote: "Full Professor",
+      roleNote: "Professor",
       tagline: "Using <b>wheat</b> and other staple crops, integrating <b>big data</b>, <b>phenomics</b> and <b>single-cell spatial transcriptomics</b> to identify genes for <b>yield and environmental adaptation</b> — and feed them into <b>molecular design breeding</b>.",
       stats: [
         { num: 44, suffix: "+", label: "journal papers" },
         { num: 17, suffix: "+", label: "first / corresponding" },
-        { num: 2, suffix: "", label: "Nature co-authored" }
+        { num: 3, suffix: "", label: " CNS " }
       ],
       btnPrimary: "Selected publications",
       btnGhost: "Get in touch",
@@ -309,7 +309,7 @@ window.SITE_DATA = {
 
     trajectory: [
       { period: "May 2026 — Present", role: "Principal Scientist / Professor", org: "Yazhou Bay National Laboratory", note: "Full professor" },
-      { period: "Apr 2020 — May 2026", role: "Associate → Full Researcher", org: "BGI Research / BGI Bioscience", note: "Full professor" },
+      { period: "Apr 2020 — May 2026", role: "Associate / Full Professor", org: "BGI Research / BGI Bioverse", note: "Full professor" },
       { period: "Feb 2019 — Jan 2020", role: "Postdoctoral Fellow", org: "Murdoch University, Australia", note: "with Prof. Chengdao Li" },
       { period: "Feb 2018 — Feb 2019", role: "Rutherford Foundation Research Fellow", org: "University of Dundee & James Hutton Institute", note: "with Prof. Robbie Waugh" }
     ],
@@ -325,7 +325,7 @@ window.SITE_DATA = {
     projects: [
       { source: "Ministry of Agriculture and Rural Affairs", title: "Sci-Tech Innovation 2030 — Major Project on Biological Breeding", period: "Nov 2026 — Dec 2030", amount: "¥1.2 M", role: "Core member / Task lead", highlight: true },
       { source: "Ministry of Agriculture and Rural Affairs", title: "Sci-Tech Innovation 2030 — Major Project on Biological Breeding", period: "Jan 2023 — Dec 2025", amount: "¥1.3 M", role: "Core member / Task executive lead", highlight: true },
-      { source: "Henan Provincial Department of Science and Technology", title: "Henan Provincial Natural Science Foundation (General Programme)", period: "Jan 2026 — Dec 2027", amount: "¥0.1 M", role: "Principal Investigator", highlight: true },
+      { source: "Provincial Department of Science and Technology", title: "Provincial Natural Science Foundation (General Programme)", period: "Jan 2026 — Dec 2027", amount: "¥0.1 M", role: "Principal Investigator", highlight: true },
       { source: "Guangdong Provincial Department of Science and Technology", title: "Guangdong Provincial Genomics Science Data Center", period: "Jan 2022 — Dec 2024", amount: "¥3.09 M", role: "Project member" },
       { source: "Shenzhen Talent Programme", title: "Rapid Maize Breeding Technology and Application (Peacock Team)", period: "Jan 2023 — Dec 2027", amount: "¥22.0 M", role: "Core member (2nd) · Lead of two sub-projects", highlight: true },
       { source: "Guangdong Lingnan Laboratory", title: "Spatiotemporal Transcriptomics of Embryo Development and Seed Germination in Major Cereals", period: "Jan 2022 — Dec 2026", amount: "¥5.0 M", role: "Core member" }
