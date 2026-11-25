@@ -5,7 +5,7 @@ window.SITE_DATA = {
       lang: "zh",
       htmlLang: "zh-CN",
       title: "谈聪 Cong Tan · 作物多组学与智能育种",
-      desc: "谈聪，崖州湾国家实验室主任科学家、研究员。研究聚焦植物图形泛基因组、空间转录组与人工智能驱动的基因组精准设计育种。"
+      desc: "谈聪，崖州湾国家实验室、研究员。研究聚焦作物基因组学、单细胞空间转录与人工智能驱动的基因组精准设计育种。"
     },
 
     nav: {
@@ -21,20 +21,20 @@ window.SITE_DATA = {
       eyebrow: "小麦等主粮 · 产量性状与环境适应性 · 分子设计育种",
       name: "谈聪",
       nameEn: "Cong Tan",
-      role: "崖州湾国家实验室 · 主任科学家 / 研究员",
+      role: "崖州湾国家实验室  / 研究员",
       roleNote: "正高职称",
-      tagline: "以<b>小麦等主粮</b>为材料，融合<b>大数据、表型组</b>与<b>单细胞空间转录组</b>，<br class=\"br-pc\" />挖掘产量性状与环境适应性关键基因，服务<b>分子设计育种</b>。",
+      tagline: "以<b>小麦等重要经济作物</b>为材料，融合<b>大数据、表型组</b>与<b>单细胞空间转录组</b>，<br class=\"br-pc\" />挖掘产量性状与环境适应性关键基因，服务<b>分子设计育种</b>。",
       stats: [
         { num: 44, suffix: "+", label: "国际期刊论文" },
-        { num: 17, suffix: "+", label: "一作 / 通讯" },
-        { num: 2, suffix: "", label: "Nature 参与发表" }
+        { num: 18, suffix: "+", label: "一作 / 通讯" },
+        { num: 1, suffix: "", label: "CNS" }
       ],
       btnPrimary: "查看代表性论著",
       btnGhost: "联系与合作",
       portraitMeta: [
         { k: "当前机构", v: "崖州湾国家实验室" },
         { k: "博士", v: "莫道克大学 · 生物科学" },
-        { k: "审稿 / 编委", v: "Cell、Nature Genetics 等" }
+        { k: "青年编委", v: "Engineering, Agri Commun, GigaScience 等" }
       ],
       scroll: "向下滚动"
     },
@@ -85,7 +85,7 @@ window.SITE_DATA = {
       { tag: "Cell · 2025", title: "拟南芥单细胞全图谱", desc: "解码叶片衰老与养分分配的单核转录组图谱，一作（共同）。" },
       { tag: "Nature Genetics · 2026", title: "小麦空间基因组学", desc: "国际小麦空间转录组计划，一作（共同），勾勒谷物穗部发育的空间版图。" },
       { tag: "Nucleic Acids Research · 2025", title: "CropGS-Hub", desc: "主要作物基因型—表型资源与基因组预测平台，一作（共同）。" },
-      { tag: "Molecular Plant · 2025 / 2026", title: "BarleyOmics & From Field to Factory", desc: "大麦多组学数据库与育种范式变革综述，通讯 / 一作（共同）。" }
+      { tag: "Molecular Plant · 2025 / 2026", title: "BarleyOmics & From Field to Factory", desc: "大麦多组学数据库与作物育种范式变革综述，通讯 / 一作（共同）。" }
     ],
 
     publications: {
@@ -101,8 +101,8 @@ window.SITE_DATA = {
     },
 
     trajectory: [
-      { period: "2026.05 — 至今", role: "主任科学家 / 研究员", org: "崖州湾国家实验室", note: "正高职称" },
-      { period: "2020.04 — 2026.05", role: "副研究员 → 研究员", org: "华大生命科学研究院 / 华大万物", note: "正高职称" },
+      { period: "2026.05 — 至今", role: " 研究员", org: "崖州湾国家实验室", note: "正高职称" },
+      { period: "2020.04 — 2026.05", role: "副研究员 / 研究员", org: "华大生命科学研究院 / 华大万物", note: "正高职称" },
       { period: "2019.02 — 2020.01", role: "博士后研究员", org: "默多克大学（澳大利亚）", note: "合作导师：李承道 院士" },
       { period: "2018.02 — 2019.02", role: "Rutherford 基金研究员", org: "邓迪大学 & James Hutton Institute", note: "合作导师：Robbie Waugh 教授" }
     ],
@@ -118,7 +118,7 @@ window.SITE_DATA = {
     projects: [
       { source: "国家农业农村部", title: "科技创新 2030 — 生物育种重大项目", period: "2026.11 — 2030.12", amount: "120 万元", role: "项目骨干 / 任务负责人", highlight: true },
       { source: "国家农业农村部", title: "科技创新 2030 — 生物育种重大项目", period: "2023.01 — 2025.12", amount: "130 万元", role: "项目骨干 / 任务执行负责人", highlight: true },
-      { source: "河南省科学技术厅", title: "河南省自然基金面上项目", period: "2026.01 — 2027.12", amount: "10 万元", role: "主持人", highlight: true },
+      { source: "XX省科学技术厅", title: "XX省自然基金面上项目", period: "2026.01 — 2027.12", amount: "10 万元", role: "主持人", highlight: true },
       { source: "广东省科学技术厅", title: "广东省基因组学科学数据中心", period: "2022.01 — 2024.12", amount: "308.68 万元", role: "项目成员" },
       { source: "深圳市人才专项", title: "玉米快速育种技术与应用（孔雀团队）", period: "2023.01 — 2027.12", amount: "2,200 万元", role: "核心成员（第 2 位）· 两个子项目负责人", highlight: true },
       { source: "广东省岭南实验室", title: "主要粮食作物胚胎发育和种子萌发时空转录组研究", period: "2022.01 — 2026.12", amount: "500 万元", role: "核心成员" }
@@ -154,21 +154,21 @@ window.SITE_DATA = {
 
     // 论著（第一 / 通讯，含共同）
     publications_list: [
-      { year: 2026, authors: "Tao, X.-Y.#, Tan, C.#, Li, Y., … Xu, X., & Chen, Z.-H.", title: "The potential of wheat spatial genomics", journal: "Nature Genetics", meta: "一作（共同）· 生物学 Q1 · IF 31", tag: "first", doi: "10.1038/s41588-026-02542-w" },
+      { year: 2026, authors: "Tao, X.-Y.#, Tan, C.#, Li, Y., … Xu, X., & Chen, Z.-H.", title: "The potential of wheat spatial genomics", journal: "Nature Genetics", meta: "一作· 生物学 Q1 · IF 31", tag: "first", doi: "10.1038/s41588-026-02542-w" },
       { year: 2026, authors: "Li, H., Tong, C., Ji, X., … Li, C.*, & Tan, C.*", title: "Single-nucleus transcriptomic decoding of cell-specific machinery for storage reserve remobilization in germinating barley", journal: "Agriculture Communications", meta: "通讯作者 · Q1 · IF 11.5", tag: "corr" },
       { year: 2026, authors: "Huang, W., Yang, L., Hu, N., … Chen, Z.-H., & Tan, C.*", title: "Single-nucleus transcriptome profiling unveils cell-type specific ethylene and TOR signaling in tomato", journal: "Horticulture Research", meta: "通讯作者 · Q1 · IF 8.5", tag: "corr", doi: "10.1093/hr/uhag044" },
       { year: 2026, authors: "Zhao, B., Zhang, C., Gong, Z. K., … He, W., & Tan, C.*", title: "WinPopLDdecay: a hardware-adaptive and reproducible reimplementation of PopLDdecay with a graphical interface", journal: "GigaScience", meta: "通讯作者", tag: "corr" },
-      { year: 2026, authors: "Qu, Y.#, Tan, C.#, Yang, L., … & Boden, S. A.", title: "Spatial transcriptomics identifies distinct domains regulating yield-component traits of the wheat ear", journal: "Science Advances", meta: "一作（共同）· 生物学 Q1 · IF 15.5", tag: "first", doi: "10.1126/sciadv.aed1407" },
-      { year: 2026, authors: "Fu, J.#, Tan, C.#, Zhang, X., … & Xu, Y.", title: "Revolution in Plant Breeding: From Field to Factory", journal: "Molecular Plant", meta: "一作（共同）· 生物学 Q1 · IF 27.5", tag: "first", doi: "10.1016/j.molp.2026.07.017" },
-      { year: 2025, authors: "Guo, X.#, Wang, Y.#, Zhao, C.#, Tan, C.#, … & Xu, X.", title: "An Arabidopsis single-nucleus atlas decodes leaf senescence and nutrient allocation", journal: "Cell", meta: "一作（共同）· 生物学 Q1 · IF 45.6", tag: "first" },
+      { year: 2026, authors: "Qu, Y.#, Tan, C.#, Yang, L., … & Boden, S. A.", title: "Spatial transcriptomics identifies distinct domains regulating yield-component traits of the wheat ear", journal: "Science Advances", meta: "一作· 生物学 Q1 · IF 15.5", tag: "first", doi: "10.1126/sciadv.aed1407" },
+      { year: 2026, authors: "Fu, J.#, Tan, C.#, Zhang, X., … & Xu, Y.", title: "Revolution in Plant Breeding: From Field to Factory", journal: "Molecular Plant", meta: "一作· 生物学 Q1 · IF 27.5", tag: "first", doi: "10.1016/j.molp.2026.07.017" },
+      { year: 2025, authors: "Guo, X.#, Wang, Y.#, Zhao, C.#, Tan, C.#, … & Xu, X.", title: "An Arabidopsis single-nucleus atlas decodes leaf senescence and nutrient allocation", journal: "Cell", meta: "一作· 生物学 Q1 · IF 45.6", tag: "first" },
       { year: 2025, authors: "Zhao, J., Xie, S., Zhang, C., … Zhang, G., Tan, C.*, & Ye, L.*", title: "BarleyOmics: A comprehensive multi-omics database of barley", journal: "Molecular Plant", meta: "通讯作者 · 生物学 Q1 · IF 27.5", tag: "corr" },
-      { year: 2025, authors: "Wang, W.#, Tan, C.#, Li, L.#, … & Wei, X.", title: "The China National GeneBank Sequence Archive (CNSA) 2024 update", journal: "Horticulture Research", meta: "一作（共同）· 生物学 Q1 · IF 7.6", tag: "first" },
+      { year: 2025, authors: "Wang, W.#, Tan, C.#, Li, L.#, … & Wei, X.", title: "The China National GeneBank Sequence Archive (CNSA) 2024 update", journal: "Horticulture Research", meta: "一作· 生物学 Q1 · IF 7.6", tag: "first" },
       { year: 2024, authors: "Huang, W.#, Tan, C.#, & Guo, H.*", title: "Ethylene in fruits: beyond ripening control", journal: "Horticulture Research", meta: "通讯作者 · 生物学 Q1 · IF 7.6", tag: "corr" },
-      { year: 2024, authors: "Chen, J.#, Tan, C.#, Zhu, M.#, … & Liu, H.", title: "CropGS-Hub: a comprehensive database of genotype and phenotype resources for genomic prediction in major crops", journal: "Nucleic Acids Research", meta: "一作（共同）· 生物学 Q2 · IF 16.1", tag: "first" },
+      { year: 2024, authors: "Chen, J.#, Tan, C.#, Zhu, M.#, … & Liu, H.", title: "CropGS-Hub: a comprehensive database of genotype and phenotype resources for genomic prediction in major crops", journal: "Nucleic Acids Research", meta: "一作· 生物学 Q2 · IF 16.1", tag: "first" },
       { year: 2024, authors: "Wang, H., Xu, Y., Zhang, Z., Zhang, G., Tan, C.*, & Ye, L.*", title: "Development and application of transcriptomics technologies in plant science", journal: "Crop Design", meta: "通讯作者", tag: "corr" },
-      { year: 2023, authors: "Zhang, W.#, Tan, C.#, Hu, H.#, … & Li, C.", title: "Genome architecture and diverged selection shaping pattern of genomic differentiation in wild barley", journal: "Plant Biotechnology Journal", meta: "一作（共同）· 生物学 Q1 · IF 12.1", tag: "first" },
-      { year: 2023, authors: "Zhou, Z.#, Tan, C.#, Chau, M. H. K., … & Dong, Z.", title: "TEDD: a database of temporal gene expression patterns during multiple developmental periods in human and model organisms", journal: "Nucleic Acids Research", meta: "一作（共同）· 生物学 Q2 · IF 16.1", tag: "first" },
-      { year: 2022, authors: "Chen, D.#, Tan, C.#, Ding, P.#, … & Liu, H.", title: "VThunter: a database for single-cell screening of virus target cells in the animal kingdom", journal: "Nucleic Acids Research", meta: "一作（共同）· 生物学 Q2 · IF 16.1", tag: "first" },
+      { year: 2023, authors: "Zhang, W.#, Tan, C.#, Hu, H.#, … & Li, C.", title: "Genome architecture and diverged selection shaping pattern of genomic differentiation in wild barley", journal: "Plant Biotechnology Journal", meta: "一作· 生物学 Q1 · IF 12.1", tag: "first" },
+      { year: 2023, authors: "Zhou, Z.#, Tan, C.#, Chau, M. H. K., … & Dong, Z.", title: "TEDD: a database of temporal gene expression patterns during multiple developmental periods in human and model organisms", journal: "Nucleic Acids Research", meta: "一作· 生物学 Q2 · IF 16.1", tag: "first" },
+      { year: 2022, authors: "Chen, D.#, Tan, C.#, Ding, P.#, … & Liu, H.", title: "VThunter: a database for single-cell screening of virus target cells in the animal kingdom", journal: "Nucleic Acids Research", meta: "一作· 生物学 Q2 · IF 16.1", tag: "first" },
       { year: 2020, authors: "Tan, C., Chapman, B., Wang, P., … & Li, C.*", title: "BarleyVarDB: a database of barley genomic variation", journal: "Database (Oxford)", meta: "第一作者 · IF 4.2", tag: "first" },
       { year: 2019, authors: "Tan, C., Zhang, X.-Q., … & Li, C.*", title: "Characterization of genome-wide variations induced by gamma-ray radiation in barley using RNA-Seq", journal: "BMC Genomics", meta: "第一作者 · 生物学 Q2 · IF 4.1", tag: "first" },
       { year: 2012, authors: "Tan, C., Han, Z., Yu, H., … & Xing, Y.", title: "QTL Scanning for Rice Yield Using a Whole Genome SNP Array", journal: "Journal of Genetics and Genomics", meta: "第一作者 · 生物学 Q1 · IF 5.8", tag: "first" }
